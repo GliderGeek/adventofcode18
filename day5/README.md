@@ -1,4 +1,4 @@
-#--- Day 5: Alchemical Reduction ---
+# --- Day 5: Alchemical Reduction ---
 
 You've managed to sneak in to the prototype suit manufacturing lab. The Elves are making decent progress, but are still struggling with the suit's size reduction capabilities.
 
@@ -25,7 +25,7 @@ After all possible reactions, the resulting polymer contains 10 units.
 How many units remain after fully reacting the polymer you scanned? (Note: in this puzzle and others, the input is large; if you copy/paste your input, make sure you get the whole thing.)
 
 Your puzzle answer was `10368`.
-##--- Part Two ---
+## --- Part Two ---
 
 Time to improve the polymer.
 

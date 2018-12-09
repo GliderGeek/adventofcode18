@@ -1,4 +1,4 @@
-#--- Day 6: Chronal Coordinates ---
+# --- Day 6: Chronal Coordinates ---
 
 The device on your wrist beeps several times, and once again you feel like you're falling.
 
@@ -52,7 +52,7 @@ In this example, the areas of coordinates A, B, C, and F are infinite - while no
 What is the size of the largest area that isn't infinite?
 
 Your puzzle answer was `3909`.
-##--- Part Two ---
+## --- Part Two ---
 
 On the other hand, if the coordinates are safe, maybe the best you can do is try to find a region near as many coordinates as possible.
 
